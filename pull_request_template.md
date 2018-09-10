@@ -1,4 +1,4 @@
 Merge Approvals: 
-- [ ] Dev
+- [ ] Dev @ivan-vinitskyy
 - [ ] Tester
 - [ ] PO
